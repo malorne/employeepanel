@@ -3,5 +3,5 @@
 ### Firstly, copy this repo in your new directory
 Then write the following commands:
 * npm i
-npm init -y
-npm run dev
+* npm init -y
+* npm run dev
