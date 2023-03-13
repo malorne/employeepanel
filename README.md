@@ -5,3 +5,5 @@ Then write the following commands:
 * npm i
 * npm init -y
 * npm run dev
+
+#### Builded on React
