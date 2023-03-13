@@ -6,4 +6,4 @@ Then write the following commands in terminal:
 * npm init -y
 * npm run dev
 
-#### Developed on React
+#### Developed on React ⚛️
