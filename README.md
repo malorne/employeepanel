@@ -1,9 +1,18 @@
 # Application for accounting of employees in the company
 ## How to install?
-### Firstly, copy this repo in your new directory
-Then write the following commands in terminal:
-* npm i
-* npm init -y
-* npm run dev
+### Open your terminal and then type
+
+$ git clone {the url to the GitHub repo}
+
+This clones the repo
+
+cd into the new folder and type
+
+$ npm install
+
+This installs the required dependencies
+
+To run the React project.
+$ npm start
 
 #### Developed on React ⚛️
